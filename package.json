@@ -1,0 +1,22 @@
+{
+  "name": "playground-minista-v4-alpha-for-win",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "minista",
+    "build": "minista build",
+    "preview": "minista preview"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "minista": "^4.0.0-alpha.10",
+    "minista-plugin-bundle": "^4.0.0-alpha.10",
+    "minista-plugin-image": "^4.0.0-alpha.10",
+    "minista-plugin-ssg": "^4.0.0-alpha.10",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.11"
+  }
+}
